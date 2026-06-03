@@ -1,6 +1,6 @@
 var name="aanya";
  var firstName = "Aanya";
- var lastName  "Vats";
+ var lastName = "Vats";
 
 //camelcase
 
