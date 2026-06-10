@@ -3,7 +3,7 @@
 
 function calculatePassRate(passed, total) {
     return ((passed / total) * 100).toFixed(2);
-}1w
+}
 
 console.log(calculatePassRate(100, 200)); // Output: 50.00  
 console.log(calculatePassRate(50, 100)); // Output: 50.00
